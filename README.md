@@ -34,5 +34,4 @@ Real-time updates for:
 
 ---
 
-## 📂 Folder Structure
 
