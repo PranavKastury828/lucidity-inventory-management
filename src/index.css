@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set the entire app background */
+body {
+  @apply bg-[#161718] text-[#E0E2E0];
+}
