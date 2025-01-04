@@ -35,3 +35,24 @@ Real-time updates for:
 ---
 
 
+---
+
+## 🖥️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/pranavkastury828/inventory-management.git
+cd inventory-management
+
+npm install
+
+npm run dev
+
+npm run build
+```
+## 🤝 Acknowledgments
+
+This project was an exciting and fun opportunity to showcase my skills. It was a joy to implement features like dynamic state updates, modular components, and responsive design. Working on this assignment for Lucidity allowed me to refine my problem-solving and UI design skills.
+
+Thank you, Lucidity, for the opportunity to work on this assignment and demonstrate my capabilities. I truly enjoyed the process and would be thrilled to collaborate further!
+
